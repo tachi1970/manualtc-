@@ -1,4 +1,4 @@
-const VERSION = "202611011139";
+const VERSION = "202611011154";
 const CACHE = "physio-app-" + VERSION;
 const FONTS = "physio-fonts";
 const CORE = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./icon-maskable-512.png", "./apple-touch-icon.png"];
